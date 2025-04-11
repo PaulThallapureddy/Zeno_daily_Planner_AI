@@ -146,7 +146,7 @@ Input: "${input}"`;
             )}
             {/* Footer for credits */}
             <footer className="mt-10 text-sm text-gray-500 text-center">
-                Created by Shraddha Yadav (12310925) & Paul (12301217)
+                Created by Shraddha Yadav (12310925) & Paul (12301317)
             </footer>
         </div>
     );
